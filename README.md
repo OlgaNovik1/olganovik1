@@ -2,9 +2,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5) ![HTML](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3) ![HTML](https://img.shields.io/badge/-SASS-black?style=for-the-badge&logo=sass) ![HTML](https://img.shields.io/badge/-JAVASCRIPT-black?style=for-the-badge&logo=JAVASCRIPT) ![HTML](https://img.shields.io/badge/-TYPESCRIPT-black?style=for-the-badge&logo=TYPEScript) ![HTML](https://img.shields.io/badge/-REACT-black?style=for-the-badge&logo=react) ![HTML](https://img.shields.io/badge/-GIT-black?style=for-the-badge&logo=GIT) ![HTML](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github) ![HTML](https://img.shields.io/badge/-WEBPACK-black?style=for-the-badge&logo=webpack) ![HTML](https://img.shields.io/badge/-OOP-black?style=for-the-badge&logo=OOP)
 
 ## Pet-projects
-[ссылка](https://github.com/OlgaNovik1)
 
-ррроот
+* [ToDo List](https://github.com/OlgaNovik1/todo_1)(HTML+CSS+JS), [deploy](https://olganovik1.github.io/todo_1/)
+* hhhhhh
+* hhhhhhh
+
+
 
 
 ## Follow me
