@@ -9,6 +9,9 @@
 * [CV_Novik_Olga](https://github.com/OlgaNovik1/olganovik1.github.io) (HTML+CSS), [deploy](https://olganovik1.github.io/)
 
 
+## Components
+* [Animated Modal](https://github.com/OlgaNovik1/animatedModal.github.io) (React18, SASS), [deploy](https://animated-modal-github-io.vercel.app/)
+
 
 
 ## Follow me
