@@ -9,6 +9,10 @@
 * [CV_Novik_Olga](https://github.com/OlgaNovik1/olganovik1.github.io) (HTML+CSS), [deploy](https://olganovik1.github.io/)
 
 
+## ReactJS18 mini-project marathon
+* [quiz-project](https://github.com/OlgaNovik1/quiz_reactJS.github.io) (React18, SASS), [deploy](https://quiz-react-js-github-io.vercel.app/)
+
+
 ## Components
 * [Animated Modal](https://github.com/OlgaNovik1/animatedModal.github.io) (React18, SASS), [deploy](https://animated-modal-github-io.vercel.app/)
 
