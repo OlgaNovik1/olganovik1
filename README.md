@@ -4,6 +4,7 @@
 ## Pet-projects
 
 * [ToDo List](https://github.com/OlgaNovik1/todo_1) (HTML+CSS+JS), [deploy](https://olganovik1.github.io/todo_1/)
+* [Photo collection](https://github.com/OlgaNovik1/foto_collection) (React18, SASS), [deploy](https://foto-collection.vercel.app/)
 * [User List](https://github.com/OlgaNovik1/user_list.github.io) (React18, SASS), [deploy](https://user-list-github-io.vercel.app/)
 * [Building company](https://github.com/OlgaNovik1/constructioncompany.github.io) (HTML+SASS+JS), [deploy](https://olganovik1.github.io/constructioncompany.github.io/)
 * [Poker game](https://github.com/OlgaNovik1/poker_game) (HTML+SASS+Typescript+Webpack+OOP)- SPA App
