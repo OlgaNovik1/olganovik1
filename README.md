@@ -14,6 +14,7 @@
 
 ## Components
 * [Animated Modal](https://github.com/OlgaNovik1/animatedModal.github.io) (React18, SASS), [deploy](https://animated-modal-github-io.vercel.app/)
+* [Burger_menu](https://github.com/OlgaNovik1/burger_menu_react) (React18, CSS), [deploy](https://burger-menu-react.vercel.app/)
 
 
 
