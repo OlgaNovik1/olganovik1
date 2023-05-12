@@ -3,7 +3,7 @@
 
 ## Pet-projects
 
-* [Sneakers online-shop ](https://github.com/OlgaNovik1/sneakers_shop) (React18, SASS, Rest API), [deploy](https://sneakers-shop-chi.vercel.app/)
+* [Sneakers online-shop ](https://github.com/OlgaNovik1/sneakers_shop) (React18, SASS, Rest API), [deploy](https://sneakers-shop-chi.vercel.app/)[3 pages]
 * [ToDo List](https://github.com/OlgaNovik1/todo_1) (HTML+CSS+JS), [deploy](https://olganovik1.github.io/todo_1/)
 * [Photo collection](https://github.com/OlgaNovik1/foto_collection) (React18, SASS, Rest API), [deploy](https://foto-collection.vercel.app/)
 * [User List](https://github.com/OlgaNovik1/user_list.github.io) (React18, SASS, Reas API), [deploy](https://user-list-github-io.vercel.app/)
